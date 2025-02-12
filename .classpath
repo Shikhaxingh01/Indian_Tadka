@@ -8,14 +8,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="D:/javarumtime/com.mysql.jdbc_5.1.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/apache-tomcat-9.0.99-windows-x64/apache-tomcat-9.0.99/lib/servlet-api.jar"/>
-	<classpathentry kind="lib" path="D:/javarumtime/cos.jar"/>
-	<classpathentry kind="lib" path="src/main/webapp/index.jsp"/>
+	<classpathentry kind="lib" path="C:/apache/apache-tomcat-9.0.46/lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/apache/apache-tomcat-9.0.46/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/apache/apache-tomcat-9.0.46/lib/cos.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

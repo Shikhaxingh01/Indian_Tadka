@@ -82,10 +82,10 @@ je suis Shikha singh.....</i></b>
  Tadka is commonly used as the finishing touch in dals, such as this Onion
   Tomato Dal, which has a tadka made from cumin, curry leaves, onion, garlic, tomato, and powdered spices. This 
   Pumpkin Tarka Dal has a tadka made from cumin seeds, mustard seeds, coriander, turmeric, and tomato. 
-Tadka may also be added to curry Tadka is commonly used as the finishing touch
- in dals, such as this Onion Tomato Dal, which has a tadka made from cumin, curry leaves, onion, garlic,
- tomato, and powdered spices. This Pumpkin Tarka Dal has a tadka made from cumin seeds, mustard seeds, coriander,
- turmeric, and tomato. Tadka may also be added to curry.</p>
+  Tadka may also be added to curry Tadka is commonly used as the finishing touch
+   in dals, such as this Onion Tomato Dal, which has a tadka made from cumin, curry leaves, onion, garlic,
+    tomato, and powdered spices. This Pumpkin Tarka Dal has a tadka made from cumin seeds, mustard seeds, coriander,
+   turmeric, and tomato. Tadka may also be added to curry.</p>
 </div>
 
 </div>
